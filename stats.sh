@@ -11,7 +11,6 @@ BEGIN {
 	print "benchmark                                        | iter       | time/iter    | bytes/op  | allocs/op  | tt.sec | tt.kb        | ns/alloc"
 	print "-------------------------------------------------|------------|--------------|-----------|------------|--------|--------------|-----------"
 }
-
 /Benchmark/ {
 	gsub(/ +/," ",$0)
 	if ($7 != 0) {
@@ -26,7 +25,6 @@ BEGIN {
 		else proto[$1,i]=$i
 	}
 }
-
 function arr_sort(arr,number) {
     i=0
     for (k in arr){
@@ -44,7 +42,6 @@ function arr_sort(arr,number) {
         }
     }
 }
-
 END {
 	print "\n"
 	print "Totals:\n\n"

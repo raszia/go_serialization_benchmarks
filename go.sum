@@ -42,10 +42,6 @@ github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e/go.mod h1:F5haX7
 github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f/go.mod h1:E3G3o1h8I7cfcXa63jLwjI0eiQQMgzzUDFVpN/nH/eA=
 github.com/cpuguy83/go-md2man/v2 v2.0.0/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/cybriq/gotiny v0.0.5 h1:VgEZDiDXaObPVhK9O+JNM6USguc+vUsz4dLMIMhuL7M=
-github.com/cybriq/gotiny v0.0.5/go.mod h1:u13//tC09EgkQTDqXZrf6bNI9cc9dr07ZqUVQreubzk=
-github.com/cybriq/gotiny v0.0.6-0.20220412231127-0a1864225fc8 h1:R/4a3XWWW1uXKNRbMXUTmnWpJAyMc+NUhT2+uf7oq3Q=
-github.com/cybriq/gotiny v0.0.6-0.20220412231127-0a1864225fc8/go.mod h1:u13//tC09EgkQTDqXZrf6bNI9cc9dr07ZqUVQreubzk=
 github.com/dave/jennifer v1.4.1/go.mod h1:7jEdnm+qBcxl8PC0zyp7vxcpSRnzXSt9r39tpTVGlwA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -194,7 +190,6 @@ github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRW
 github.com/neelance/astrewrite v0.0.0-20160511093645-99348263ae86/go.mod h1:kHJEU3ofeGjhHklVoIGuVj85JJwZ6kWPaJwCIxgnFmo=
 github.com/neelance/sourcemap v0.0.0-20200213170602-2833bce08e4c/go.mod h1:Qr6/a/Q4r9LP1IltGz7tA7iOK1WonHEYhu1HRBA7ZiM=
 github.com/niubaoshu/goutils v0.0.0-20180828035119-e8e576f66c2b h1:T7vmCmpGIvqlOOp5SXatALP+HYc/40ZHbxmgy+p+sN0=
-github.com/niubaoshu/goutils v0.0.0-20180828035119-e8e576f66c2b/go.mod h1:aDwH4aWrEBXw/uvtSvwNwxdtnsx++aP8c8ad4AmlRCg=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
@@ -223,6 +218,8 @@ github.com/prysmaticlabs/go-bitfield v0.0.0-20190825002834-fb724e897364 h1:WA0uI
 github.com/prysmaticlabs/go-bitfield v0.0.0-20190825002834-fb724e897364/go.mod h1:hCwmef+4qXWjv0jLDbQdWnL0Ol7cS7/lCSS26WR+u6s=
 github.com/prysmaticlabs/go-ssz v0.0.0-20190827151743-72881c4223d8 h1:EzplWlL5UtR5voNjaIhJbdMCsE34ElvWp5BxtMhCTN8=
 github.com/prysmaticlabs/go-ssz v0.0.0-20190827151743-72881c4223d8/go.mod h1:VecIJZrewdAuhVckySLFt2wAAHRME934bSDurP8ftkc=
+github.com/raszia/gotiny v0.1.1 h1:ZCyWXEqj2Nn2vtNH//9n7eco2knjWt5fJ1BXhS1Li5Y=
+github.com/raszia/gotiny v0.1.1/go.mod h1:q2vxEK9XKuXnQ6rqL7/CwCo7637yeA+fAzlWSnvu2Uc=
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=

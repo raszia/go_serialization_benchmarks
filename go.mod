@@ -19,8 +19,8 @@ require (
 	github.com/linkedin/goavro/v2 v2.12.0
 	github.com/mailru/easyjson v0.7.7
 	github.com/mojura/enkodo v0.5.6
-	github.com/niubaoshu/gotiny v0.0.3
 	github.com/prysmaticlabs/go-ssz v0.0.0-20190827151743-72881c4223d8
+	github.com/raszia/gotiny v0.1.1
 	github.com/shamaton/msgpack/v2 v2.1.1
 	github.com/shamaton/msgpackgen v0.3.0
 	github.com/tinylib/msgp v1.1.8
@@ -38,7 +38,6 @@ require (
 
 require (
 	github.com/DataDog/zstd v1.5.2 // indirect
-	github.com/cybriq/gotiny v0.0.5 // indirect
 	github.com/glycerine/goconvey v0.0.0-20190410193231-58a59202ab31 // indirect
 	github.com/glycerine/rbtree v0.0.0-20190406191118-ceb71889d809 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -62,6 +61,5 @@ require (
 
 replace (
 	github.com/itsmontoya/mum v0.5.6 => github.com/mojura/enkodo v0.5.6
-	github.com/niubaoshu/gotiny v0.0.3 => github.com/cybriq/gotiny v0.0.6-0.20220412231127-0a1864225fc8
 	github.com/stretchrcom/testify v1.7.1 => github.com/stretchr/testify v1.7.1
 )

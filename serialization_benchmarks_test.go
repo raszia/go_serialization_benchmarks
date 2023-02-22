@@ -24,8 +24,8 @@ import (
 	ikea "github.com/ikkerens/ikeapack"
 	jsoniter "github.com/json-iterator/go"
 	easyjson "github.com/mailru/easyjson"
-	"github.com/niubaoshu/gotiny"
 	ssz "github.com/prysmaticlabs/go-ssz"
+	"github.com/raszia/gotiny"
 	shamaton "github.com/shamaton/msgpack/v2"
 	shamatongen "github.com/shamaton/msgpackgen/msgpack"
 	"github.com/tinylib/msgp/msgp"
@@ -157,7 +157,7 @@ See README.md for details on running the benchmarks.
 `)
 }
 
-// github.com/niubaoshu/gotiny
+// github.com/raszia/gotiny
 
 type GotinySerializer struct {
 	dec *gotiny.Decoder
